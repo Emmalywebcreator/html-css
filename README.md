@@ -35,6 +35,7 @@
     Download Text Editor:
     Recommended: VS Code.
     Install Live Server Extension:
+    Install Prettier coder
     For real-time preview of your website as you code.
     Download Project Files:
     Link to GitHub repository.
